@@ -8,13 +8,15 @@
   ],
   "main": "index.js",
   "scripts": {
-    "prettier": "prettier --write index.js",
-    "lint": "prettier --check index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prettier": "prettier --write *.js",
+    "lint": "prettier --check *.js",
+    "test": "jest"
   },
   "author": "Daniel Zeiter",
   "license": "ISC",
   "devDependencies": {
+    "@types/jest": "^26.0.0",
+    "jest": "^26.0.1",
     "prettier": "2.0.5"
   }
 }
