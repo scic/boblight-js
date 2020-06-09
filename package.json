@@ -1,11 +1,12 @@
 {
-  "name": "boblib",
+  "name": "boblight-js",
   "version": "0.1.0",
-  "description": "A library that implements the boblight protocol",
+  "description": "A boblight client library for Node.js",
   "keywords": [
     "boblight",
     "ambilight"
   ],
+  "repository": "github:scic/boblight-js",
   "main": "index.js",
   "scripts": {
     "prettier": "prettier --write *.js",
