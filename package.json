@@ -1,0 +1,20 @@
+{
+  "name": "boblib",
+  "version": "0.1.0",
+  "description": "A library that implements the boblight protocol",
+  "keywords": [
+    "boblight",
+    "ambilight"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier --write index.js",
+    "lint": "prettier --check index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Zeiter",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "2.0.5"
+  }
+}
