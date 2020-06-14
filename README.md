@@ -4,6 +4,10 @@
 
 boblight-js is a client library for boblight.
 
+## Requirements
+
+Node.js >= 12
+
 ## Installation
 
     npm install boblight-js --save
