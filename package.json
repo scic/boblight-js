@@ -13,6 +13,9 @@
     "lint": "prettier --check *.js",
     "test": "jest"
   },
+  "files": [
+    "index.js"
+  ],
   "author": "Daniel Zeiter",
   "license": "ISC",
   "devDependencies": {
