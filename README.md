@@ -1,5 +1,6 @@
 # boblight-js
 
+![Node.js CI](https://github.com/scic/boblight-js/workflows/Node.js%20CI/badge.svg)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 boblight-js is a client library for boblight.
